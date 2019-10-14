@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: encrypted-secrets-cm
-data:
-  token: ezBR+Ew+Itwg6fA/tQjxzg==:/DH+kSV3UN8eRUxT/cJp5w==
